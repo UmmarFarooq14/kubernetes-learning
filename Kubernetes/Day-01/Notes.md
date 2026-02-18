@@ -1,3 +1,3 @@
 Kubernetes:
 -----------
-  Kubernetes is a portable, extensible, Open-Source Platform for managing containerized workloads and services that facilities both declarative configuration and automation.
+    Kubernetes is a portable, extensible, Open-Source Platform for managing containerized workloads and services that facilities both declarative configuration and automation.
