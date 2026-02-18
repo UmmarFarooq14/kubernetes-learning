@@ -11,3 +11,4 @@ RBAC GA in Kubernetes:
 ----------------------
 RBAC was:
 ---------
+. Introduced as Alpha {Experimental, may change}
