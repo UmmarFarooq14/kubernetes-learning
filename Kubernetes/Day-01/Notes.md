@@ -4,5 +4,5 @@ Kubernetes:
     => Before Containers 
     . Application run on physical servers.
     . Then came Virtual Machines.
-. Managing Large - scale distributedapps become complex.
+    . Managing Large - scale distributedapps become complex.
 
