@@ -6,6 +6,7 @@ Kubernetes:
         . Then came Virtual Machines.
         . Managing Large - scale distributedapps become complex.
     => Currently 1.8 version Role Based Access Control General Availability.
+    => It mainly works with containers like Docker.
 
 RBAC GA in Kubernetes:
 ----------------------
