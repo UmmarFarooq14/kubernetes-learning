@@ -11,7 +11,7 @@ RBAC GA in Kubernetes:
 ----------------------
 RBAC was:
 ---------
-. Introduced as Alpha {Experimental, may change}
+    . Introduced as Alpha {Experimental, may change}
 . Moved to Beta {Mostly Stable, minor changes possible}
 . Become a GA {Stable} in Kubernetes V1.8(2017)
 
