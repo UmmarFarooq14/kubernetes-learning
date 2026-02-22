@@ -26,3 +26,4 @@ RBAC was:
 Kubernetes Architecture:
 ------------------------
     A Kubernetes cluster has two main parts:
+    1) Control Plane {MAster Node}
