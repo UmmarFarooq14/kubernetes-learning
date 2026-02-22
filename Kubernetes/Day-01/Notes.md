@@ -25,4 +25,4 @@ RBAC was:
 
 Kubernetes Architecture:
 ------------------------
-A Kubernetes cluster has two main parts:
+    A Kubernetes cluster has two main parts:
