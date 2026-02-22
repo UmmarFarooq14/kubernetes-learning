@@ -43,4 +43,6 @@ Kubernetes Architecture:
          what it does:
         --------------
          Accept REST API requests.
+         Authenticates & Authorizes users.
+         
         
