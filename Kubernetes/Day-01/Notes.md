@@ -47,6 +47,11 @@ Kubernetes Architecture:
              Validates requests.
              updates etcd.
              Communications with all components.
+
+       Ex:-
+       ----
+       When you run:
+       
    
          
         
