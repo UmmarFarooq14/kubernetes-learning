@@ -33,3 +33,6 @@ Kubernetes Architecture:
    -------------------------------------
        The Control Plane  manages the ebtire cluster.
        It makes decisions & Manintains desired state.
+   
+       1) Kube-apiserver:
+         ----------------
