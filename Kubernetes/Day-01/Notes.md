@@ -42,11 +42,11 @@ Kubernetes Architecture:
    
          what it does:
         --------------
-         Accept REST API requests.
-         Authenticates & Authorizes users.
-         Validates requests.
-         updates etcd.
-         Communications with all components.
+             Accept REST API requests.
+             Authenticates & Authorizes users.
+             Validates requests.
+             updates etcd.
+             Communications with all components.
    
          
         
