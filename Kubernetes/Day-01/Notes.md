@@ -28,3 +28,5 @@ Kubernetes Architecture:
     A Kubernetes cluster has two main parts:
     1) Control Plane {Master Node}
     2) Worker Nodes
+
+1) Control Plane {Brain of the Cluster}
