@@ -31,3 +31,4 @@ Kubernetes Architecture:
 
 1) Control Plane {Brain of the Cluster}:
    -------------------------------------
+   The Control Plane  manages the ebtire cluster.
