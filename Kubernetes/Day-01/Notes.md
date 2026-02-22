@@ -22,3 +22,6 @@ RBAC was:
     . Networking
     . Self - Healing
     . Load Balancing
+
+Kubernetes Architecture:
+------------------------
