@@ -50,7 +50,8 @@ Kubernetes Architecture:
 
        Ex:-
        ----
-       When you run:
+           When you run:
+      Kunectl get pods.
        
    
          
