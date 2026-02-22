@@ -39,3 +39,8 @@ Kubernetes Architecture:
          what it is:
          -----------
              The entry point of the cluster.
+   
+         what it does:
+        --------------
+         Accept REST API requests.
+        
