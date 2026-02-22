@@ -55,6 +55,7 @@ Kubernetes Architecture:
 
       FLOW:
       -----
+      Kubectl -> API Server -> etcd -> API Server -> Kubectl.
    
       
        
