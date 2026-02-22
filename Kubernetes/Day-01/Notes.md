@@ -46,6 +46,7 @@ Kubernetes Architecture:
          Authenticates & Authorizes users.
          Validates requests.
          updates etcd.
+         Communications with all components.
    
          
         
