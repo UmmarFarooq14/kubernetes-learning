@@ -36,3 +36,5 @@ Kubernetes Architecture:
    
        1) Kube-apiserver:
          ----------------
+         what it is:
+         -----------
