@@ -52,6 +52,10 @@ Kubernetes Architecture:
        ----
            When you run:
            Kunectl get pods.
+
+      FLOW:
+      -----
+   
       
        
    
