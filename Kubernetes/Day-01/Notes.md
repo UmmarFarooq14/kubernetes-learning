@@ -29,4 +29,5 @@ Kubernetes Architecture:
     1) Control Plane {Master Node}
     2) Worker Nodes
 
-1) Control Plane {Brain of the Cluster}
+1) Control Plane {Brain of the Cluster}:
+   -------------------------------------
