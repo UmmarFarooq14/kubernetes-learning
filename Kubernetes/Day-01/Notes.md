@@ -56,6 +56,7 @@ Kubernetes Architecture:
       FLOW:
       -----
           Kubectl -> API Server -> etcd -> API Server -> Kubectl.
+          Without API Server, Cluster doesn't function.
    
       
        
