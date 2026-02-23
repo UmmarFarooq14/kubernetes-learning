@@ -76,7 +76,7 @@ Kubernetes Architecture:
     Important:
     ----------
         => Single Source of truth.
-    => Musk take regular backups.
+        => Musk take regular backups.
     
     
          
