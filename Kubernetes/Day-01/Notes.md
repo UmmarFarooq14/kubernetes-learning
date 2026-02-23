@@ -61,6 +61,7 @@ Kubernetes Architecture:
       
  etcd [ Cluster Database ] :
  --------------------------
-   
+ What it is:
+ -----------
          
         
