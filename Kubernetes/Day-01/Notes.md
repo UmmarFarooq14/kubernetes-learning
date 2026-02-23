@@ -69,7 +69,7 @@ Kubernetes Architecture:
     ---------------
         => Pod Information.
         => Node Information.
-    => Secrets.
+        => Secrets.
     => ConfigMaps.
     => RBAC rules.
     
