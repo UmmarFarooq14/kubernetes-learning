@@ -67,8 +67,7 @@ Kubernetes Architecture:
 
     what it stores:
     ---------------
-    => Cluster configuration.
-    => Pod Information.
+        => Pod Information.
     => Node Information.
     => Secrets.
     => ConfigMaps.
