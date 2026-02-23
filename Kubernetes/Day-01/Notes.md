@@ -82,6 +82,7 @@ Kubernetes Architecture:
 3) Kube-Scheduler:
    ---------------
        what it does:
+       -------------
     
          
         
