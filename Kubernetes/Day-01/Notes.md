@@ -63,7 +63,7 @@ Kubernetes Architecture:
  --------------------------
      What it is:
      -----------
-    A Distributed Key-value Store.
+        A Distributed Key-value Store.
     
          
         
