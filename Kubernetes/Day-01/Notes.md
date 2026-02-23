@@ -68,7 +68,7 @@ Kubernetes Architecture:
     what it stores:
     ---------------
         => Pod Information.
-    => Node Information.
+        => Node Information.
     => Secrets.
     => ConfigMaps.
     => RBAC rules.
