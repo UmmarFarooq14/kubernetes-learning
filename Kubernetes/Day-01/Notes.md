@@ -72,6 +72,12 @@ Kubernetes Architecture:
         => Secrets.
         => ConfigMaps.
         => RBAC rules.
+
+    Important:
+    ----------
+    => Single Source of truth.
+    => Musk take regular backups.
+    
     
          
         
