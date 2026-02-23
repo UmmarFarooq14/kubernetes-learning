@@ -59,7 +59,8 @@ Kubernetes Architecture:
           Without API Server, Cluster doesn't function.
    
       
-       
+ etcd [ Cluster Database ] :
+ --------------------------
    
          
         
