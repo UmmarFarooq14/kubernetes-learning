@@ -64,6 +64,15 @@ Kubernetes Architecture:
      What it is:
      -----------
         A Distributed Key-value Store.
+
+    what it stores:
+    ---------------
+    => Cluster configuration.
+    => Pod Information.
+    => Node Information.
+    => Secrets.
+    => ConfigMaps.
+    => RBAC rules.
     
          
         
