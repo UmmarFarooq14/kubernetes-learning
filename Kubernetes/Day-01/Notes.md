@@ -59,8 +59,8 @@ Kubernetes Architecture:
           Without API Server, Cluster doesn't function.
    
       
- etcd [ Cluster Database ] :
- --------------------------
+ 2) etcd [ Cluster Database ] :
+     --------------------------
      What it is:
      -----------
         A Distributed Key-value Store.
