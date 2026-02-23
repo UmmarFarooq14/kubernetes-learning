@@ -80,6 +80,7 @@ Kubernetes Architecture:
         => If etcd is lost -> Cluster state will lost. 
 
 3) Kube-Scheduler:
+   ---------------
     
          
         
