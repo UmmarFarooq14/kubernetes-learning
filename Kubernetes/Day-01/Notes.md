@@ -97,6 +97,7 @@ Kubernetes Architecture:
 
   4) Kube-Controller-manager:
      ------------------------
+     Runs the controller the maintains desired state.
     
          
         
