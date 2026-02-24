@@ -94,6 +94,9 @@ Kubernetes Architecture:
          . Affinity rules
        => Cheases best node.
        => Schedular only decides placement. It does not run the container.
+
+  4) Kube-Controller-manager:
+     ------------------------
     
          
         
