@@ -89,6 +89,7 @@ Kubernetes Architecture:
        => Schedular check available nodes.
        => Evaluates:
          . CPU
+         . Memory
     
          
         
