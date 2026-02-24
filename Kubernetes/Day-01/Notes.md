@@ -92,6 +92,7 @@ Kubernetes Architecture:
          . Memory
          . Taints/Tolerations
          . Affinity rules
+       => Cheases best node.
     
          
         
