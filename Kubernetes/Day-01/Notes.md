@@ -102,6 +102,7 @@ Kubernetes Architecture:
         Important Controllers:
         ----------------------
         Controller                      Responsibility
-        -----------
+        -----------                     --------------
+     
          
         
