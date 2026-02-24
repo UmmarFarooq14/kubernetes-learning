@@ -86,6 +86,7 @@ Kubernetes Architecture:
            Assign Pods to Nodes.
    
        When a Pod is created:
+       => Schedular check available nodes.
     
          
         
