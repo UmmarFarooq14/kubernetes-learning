@@ -93,6 +93,7 @@ Kubernetes Architecture:
          . Taints/Tolerations
          . Affinity rules
        => Cheases best node.
+       => Schedular only decides placement. It does not run the container.
     
          
         
