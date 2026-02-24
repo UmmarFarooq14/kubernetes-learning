@@ -84,6 +84,7 @@ Kubernetes Architecture:
        what it does:
        -------------
            Assign Pods to Nodes.
+   
        When a Pod is created:
     
          
