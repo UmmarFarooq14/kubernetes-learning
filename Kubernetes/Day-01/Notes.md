@@ -101,12 +101,12 @@ Kubernetes Architecture:
 
         Important Controllers:
         ----------------------
-        Controller                      Responsibility
-        -----------                     --------------
-        Node Controller                 Checks node Health
-        Replicaset Controller           Ensures Required Replicas
-        Deployment Controller           Manages rollouts
-        Endpoint Controller             Updates Service endpoints
-        Namespace Controller            Manages namespace lifestyle.
+            Controller                      Responsibility
+            -----------                     --------------
+            Node Controller                 Checks node Health
+            Replicaset Controller           Ensures Required Replicas
+            Deployment Controller           Manages rollouts
+            Endpoint Controller             Updates Service endpoints
+            Namespace Controller            Manages namespace lifestyle.
          
         
