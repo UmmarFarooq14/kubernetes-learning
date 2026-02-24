@@ -90,6 +90,7 @@ Kubernetes Architecture:
        => Evaluates:
          . CPU
          . Memory
+         . Taints/Tolerations
     
          
         
