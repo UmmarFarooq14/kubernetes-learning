@@ -87,6 +87,7 @@ Kubernetes Architecture:
    
        When a Pod is created:
        => Schedular check available nodes.
+       => Evaluates:
     
          
         
