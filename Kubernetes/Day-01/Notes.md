@@ -91,6 +91,7 @@ Kubernetes Architecture:
          . CPU
          . Memory
          . Taints/Tolerations
+         . Affinity rules
     
          
         
