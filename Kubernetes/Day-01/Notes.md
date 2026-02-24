@@ -103,6 +103,8 @@ Kubernetes Architecture:
         ----------------------
         Controller                      Responsibility
         -----------                     --------------
-     
+        Node Controller                 Checks node Health
+        Replicaset Controller           Ensures Required Replicas
+        Deployment Controller           Manages rollouts
          
         
