@@ -99,8 +99,8 @@ Kubernetes Architecture:
      ------------------------
          Runs the controller the maintains desired state.
 
-        Important Controllers:
-        ----------------------
+            Important Controllers:
+            ----------------------
             Controller                      Responsibility
             -----------                     --------------
             Node Controller                 Checks node Health
