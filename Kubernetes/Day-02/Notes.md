@@ -5,4 +5,5 @@ Worker Node:
 
 1> Kubelet:
    --------
-   
+   What is Kubelet:
+   ---------------
