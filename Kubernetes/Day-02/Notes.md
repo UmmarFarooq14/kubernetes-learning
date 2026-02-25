@@ -17,7 +17,7 @@ Worker Node:
       => watches for assigned pods.
       => Pulls container images.
       => Starts containers.
-  => Monitors COntainers health.
+      => Monitors COntainers health.
   => Reports node & Pods Status.
   
   
