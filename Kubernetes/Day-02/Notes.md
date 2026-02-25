@@ -22,6 +22,6 @@ Worker Node:
 
 Flow Examples:
 --------------
-  
+When Schedular assign a pod:
   
   
