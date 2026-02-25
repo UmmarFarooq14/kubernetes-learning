@@ -15,4 +15,6 @@ Worker Node:
   ------------------
   => Registers node to cluster.
   => watches for assigned pods.
+  => Pulls container images.
+  
   
