@@ -14,7 +14,7 @@ Worker Node:
   What Kubelet does:
   ------------------
       => Registers node to cluster.
-  => watches for assigned pods.
+      => watches for assigned pods.
   => Pulls container images.
   => Starts containers.
   => Monitors COntainers health.
