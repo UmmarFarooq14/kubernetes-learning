@@ -31,6 +31,6 @@ Flow Examples:
 What happens if kubelet stops ?
 -------------------------------
     . Node becomes notreads.
-. pods may stop responding.
+    . pods may stop responding.
 . control plane cannot manage the node properly.
   
