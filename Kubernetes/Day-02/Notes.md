@@ -10,3 +10,6 @@ Worker Node:
        A Node Agent.
        Runs on every worker node.
        communicates with Kube-apiservers.
+       
+  What Kubelet does:
+  ------------------
