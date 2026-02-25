@@ -24,7 +24,7 @@ Flow Examples:
 --------------
 When Schedular assign a pod:
     1. API Server updates pod spoc.
-2. Kubelet sees assigned pod.
+    2. Kubelet sees assigned pod.
 3. Kubelet talks to container runtime.
 4. Container is started.
   
