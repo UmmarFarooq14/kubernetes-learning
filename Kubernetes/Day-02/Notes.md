@@ -23,5 +23,6 @@ Worker Node:
 Flow Examples:
 --------------
 When Schedular assign a pod:
+1. API Server updates pod spoc.
   
   
