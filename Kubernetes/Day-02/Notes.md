@@ -27,5 +27,8 @@ Flow Examples:
         2. Kubelet sees assigned pod.
         3. Kubelet talks to container runtime.
         4. Container is started.
+
+What happens if kubelet stops ?
+-------------------------------
           
   
