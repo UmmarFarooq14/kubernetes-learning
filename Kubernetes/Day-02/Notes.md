@@ -18,7 +18,7 @@ Worker Node:
       => Pulls container images.
       => Starts containers.
       => Monitors COntainers health.
-  => Reports node & Pods Status.
+      => Reports node & Pods Status.
   
   
   
