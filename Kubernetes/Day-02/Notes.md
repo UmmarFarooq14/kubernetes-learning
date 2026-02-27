@@ -36,8 +36,8 @@ What happens if kubelet stops ?
 
 2> Kube-proxy:
    -----------
-    what it does:
-    -------------
+        what it does:
+        -------------
         => Manages networking rules.
         => Implements services.
         => Handles Load balancing.
