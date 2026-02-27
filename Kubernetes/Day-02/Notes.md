@@ -46,6 +46,6 @@ What happens if kubelet stops ?
  ---
      Service --> Forwatds traffic to correct Pod.
 
-     Uses:
-     -----
+Uses:
+-----
      . iptables (or) IPVS
