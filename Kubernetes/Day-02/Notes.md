@@ -45,3 +45,5 @@ What happens if kubelet stops ?
      Ex:-
      ---
      Service --> Forwatds traffic to correct Pod.
+
+     Uses:
