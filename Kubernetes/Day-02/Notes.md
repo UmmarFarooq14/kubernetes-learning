@@ -36,4 +36,6 @@ What happens if kubelet stops ?
 
 Kube-proxy:
 -----------
+what it does:
+-------------
   
