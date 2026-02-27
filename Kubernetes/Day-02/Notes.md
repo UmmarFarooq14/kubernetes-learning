@@ -40,7 +40,7 @@ What happens if kubelet stops ?
     -------------
         => Manages networking rules.
         => Implements services.
-    => Handles Load balancing.
+        => Handles Load balancing.
 
     
   
