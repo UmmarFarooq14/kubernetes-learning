@@ -42,8 +42,8 @@ What happens if kubelet stops ?
         => Implements services.
         => Handles Load balancing.
         
-     Ex:-
-     ---
+ Ex:-
+ ---
      Service --> Forwatds traffic to correct Pod.
 
      Uses:
