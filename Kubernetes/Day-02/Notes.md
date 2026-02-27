@@ -42,8 +42,8 @@ What happens if kubelet stops ?
     => Maintains Network rules.
     
    
-     what it does:
-     -------------
+what it does:
+-------------
         => Manages networking rules.
         => Implements services.
         => Handles Load balancing.
