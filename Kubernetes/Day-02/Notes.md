@@ -54,11 +54,8 @@ What Container runtime does:
     => creates container.
     => starts container.
     => Manages container lifecycle.
-
-
-        
- Ex:-
- ---
+Ex:-
+---
      Service --> Forwatds traffic to correct Pod.
 
 Uses:
