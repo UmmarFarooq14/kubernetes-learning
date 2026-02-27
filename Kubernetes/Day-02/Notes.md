@@ -42,6 +42,7 @@ What happens if kubelet stops ?
         => Implements services.
         => Handles Load balancing.
         
-
+     Ex:-
+     ---
     
   
