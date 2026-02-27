@@ -52,7 +52,7 @@ What Container runtime does:
 ----------------------------
     => Pulls image.
     => creates container.
-=> starts container.
+    => starts container.
 => Manages container lifecycle.
 
 
