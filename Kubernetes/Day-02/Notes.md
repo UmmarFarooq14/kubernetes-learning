@@ -49,3 +49,6 @@ What happens if kubelet stops ?
 Uses:
 -----
      . iptables (or) IPVS
+
+How does service load balancing work internally ?
+
