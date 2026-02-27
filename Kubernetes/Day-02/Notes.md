@@ -50,6 +50,7 @@ what it does:
 
 What Container runtime does:
 ----------------------------
+=> Pulls image.
 
         
  Ex:-
