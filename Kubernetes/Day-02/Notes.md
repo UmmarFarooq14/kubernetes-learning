@@ -36,6 +36,9 @@ What happens if kubelet stops ?
 
 2> Kube-proxy:
    -----------
+    What is Kube-proxy:
+    -------------------
+   
      what it does:
      -------------
         => Manages networking rules.
