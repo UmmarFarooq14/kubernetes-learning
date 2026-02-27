@@ -34,8 +34,8 @@ What happens if kubelet stops ?
     . pods may stop responding.
     . control plane cannot manage the node properly.
 
-Kube-proxy:
------------
+2> Kube-proxy:
+   -----------
 what it does:
 -------------
   
