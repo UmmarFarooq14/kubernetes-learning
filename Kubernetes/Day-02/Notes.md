@@ -50,7 +50,7 @@ what it does:
 
 What Container runtime does:
 ----------------------------
-=> Pulls image.
+    => Pulls image.
 => creates container.
 => starts container.
 => Manages container lifecycle.
