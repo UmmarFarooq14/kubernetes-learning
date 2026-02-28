@@ -71,4 +71,7 @@ Ex:
     . Containerd
     . CRI - O
 
+What container runtime does:
+
+
 
