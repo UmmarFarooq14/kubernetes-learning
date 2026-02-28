@@ -26,5 +26,6 @@ Kubernetes Service - Internal Working (Deep Dive):
 
     Step-3:
     -------
+    kube - proxy detects sercice,
     
     
