@@ -35,7 +35,7 @@ Kubernetes Service - Internal Working (Deep Dive):
 
     Step-5:
     -------
-    
+    Traffic routed to one of the pods (round - robin).
     
     
     
