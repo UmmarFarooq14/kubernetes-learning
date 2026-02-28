@@ -8,5 +8,5 @@ It Provides:
 ------------
 => Stable IP.
 => Stable DNS Name
-Load Balancing.
+=> Load Balancing.
 Pod Discovery.
