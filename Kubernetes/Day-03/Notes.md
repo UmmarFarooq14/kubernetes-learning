@@ -6,7 +6,7 @@ What is Service:
 
 It Provides:
 ------------
-=> Stable IP.
+    => Stable IP.
 => Stable DNS Name
 => Load Balancing.
 => Pod Discovery.
