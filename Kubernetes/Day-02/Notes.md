@@ -66,3 +66,7 @@ How does service load balancing work internally ?
 ------------------------------------------------
     . Kube - proxy updates iptables/IPVS rules.
     . Traffic distributed among backend pods.
+
+
+3> Container Runtime:
+
