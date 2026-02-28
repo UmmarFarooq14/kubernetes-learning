@@ -74,7 +74,7 @@ Ex:
 What container runtime does:
 ----------------------------
     . Pull Image
-. Creates Container
+    . Creates Container
 . starts Container
 . Manages Container Lifecycle.
 
