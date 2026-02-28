@@ -14,3 +14,6 @@ Kubernetes Service - Internal Working (Deep Dive):
     Internal Flow:
     --------------
     When we create a service:
+
+    Step-1:
+    
