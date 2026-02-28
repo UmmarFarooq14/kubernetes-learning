@@ -74,6 +74,8 @@ Ex:
 What container runtime does:
 ----------------------------
 Pull Image
+Creates Container
+
 
 
 
