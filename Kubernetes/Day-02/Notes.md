@@ -48,12 +48,6 @@ what it does:
         => Implements services.
         => Handles Load balancing.
 
-What Container runtime does:
-----------------------------
-    => Pulls image.
-    => creates container.
-    => starts container.
-    => Manages container lifecycle.
 Ex:-
 ---
      Service --> Forwatds traffic to correct Pod.
