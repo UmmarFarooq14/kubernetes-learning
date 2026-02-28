@@ -69,4 +69,6 @@ How does service load balancing work internally ?
 Ex:
 ---
 Containerd
+CRI - O
+
 
