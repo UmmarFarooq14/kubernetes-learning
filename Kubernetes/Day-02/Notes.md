@@ -73,7 +73,7 @@ Ex:
 
 What container runtime does:
 ----------------------------
-Pull Image
+. Pull Image
 Creates Container
 starts Container
 Manages Container Lifecycle.
