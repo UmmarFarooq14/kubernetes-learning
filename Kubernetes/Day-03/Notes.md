@@ -9,4 +9,4 @@ It Provides:
 => Stable IP.
 => Stable DNS Name
 => Load Balancing.
-Pod Discovery.
+=> Pod Discovery.
