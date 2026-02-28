@@ -32,6 +32,9 @@ Kubernetes Service - Internal Working (Deep Dive):
     -------
     iptables rules (or) IPVS
     Routing table.
+
+    Step-5:
+    
     
     
     
