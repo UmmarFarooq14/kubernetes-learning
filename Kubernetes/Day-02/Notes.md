@@ -66,5 +66,6 @@ How does service load balancing work internally ?
    ------------------
        . This Actually runs the container.
 
-Ex:-
+Ex:
+---
 
