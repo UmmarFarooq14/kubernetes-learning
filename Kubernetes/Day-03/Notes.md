@@ -21,4 +21,5 @@ Kubernetes Service - Internal Working (Deep Dive):
 
     Step-2:
     -------
+    Endpoint Controller Creates Endpoint Object.
     
