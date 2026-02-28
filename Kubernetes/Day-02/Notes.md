@@ -76,6 +76,7 @@ What container runtime does:
 Pull Image
 Creates Container
 starts Container
+Manages Container Lifecycle.
 
 
 
