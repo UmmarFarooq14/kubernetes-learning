@@ -21,8 +21,8 @@ Kubernetes Service - Internal Working (Deep Dive):
 
     Step-2:
     -------
-    Endpoint Controller Creates Endpoint Object.
-    It tracks pods with matching labels.
+    . Endpoint Controller Creates Endpoint Object.
+    . It tracks pods with matching labels.
 
     Step-3:
     -------
