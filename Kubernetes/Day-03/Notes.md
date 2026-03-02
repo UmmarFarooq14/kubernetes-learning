@@ -1,3 +1,13 @@
+First Understnad the Pods Properly:
+-----------------------------------
+
+
+
+
+
+
+
+
 Kubernetes Service - Internal Working (Deep Dive):
 --------------------------------------------------
     What is Service:
