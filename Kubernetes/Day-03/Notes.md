@@ -11,6 +11,8 @@ First Understnad the Pods Properly:
     Pod1 ---> 10.244.0.5
     Pod2 ---> 10.244.0.6
     Pod3 ---> 10.244.0.7
+
+    => Now Imagine Pod2 crashes.
     
 
 
