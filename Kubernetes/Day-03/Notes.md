@@ -12,7 +12,14 @@ First Understnad the Pods Properly:
     Pod2 ---> 10.244.0.6
     Pod3 ---> 10.244.0.7
 
+    
     => Now Imagine Pod2 crashes.
+    New Pod2 gets: 10.244.1.9 (Ip Changed)
+
+    => So, If Someone was calling 10.22.0.6 it breaks.
+
+    
+     
     
 
 
