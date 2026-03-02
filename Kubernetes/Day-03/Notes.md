@@ -1,6 +1,7 @@
 First Understnad the Pods Properly:
 -----------------------------------
-In Kubernetes
+In Kubernetes:
+-------------
 
 
 
