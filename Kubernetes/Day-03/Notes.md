@@ -4,6 +4,7 @@ First Understnad the Pods Properly:
     -------------
        . Application runs inside the pods.
        . Pods have IP address.
+       . Pods IP's are temporary.
 
 
 
