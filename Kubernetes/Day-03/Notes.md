@@ -9,6 +9,7 @@ First Understnad the Pods Properly:
     Ex:-
     ---
     Pod1 ---> 10.244.0.5
+    Pod2 ---> 10.244.0.6
     
 
 
