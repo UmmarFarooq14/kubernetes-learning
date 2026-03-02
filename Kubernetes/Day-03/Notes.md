@@ -6,7 +6,8 @@ First Understnad the Pods Properly:
        . Pods have IP address.
        . Pods IP's are temporary.
 
-    Ex:-S
+    Ex:-
+    ---
     
 
 
