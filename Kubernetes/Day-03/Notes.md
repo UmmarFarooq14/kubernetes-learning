@@ -9,7 +9,7 @@ Kubernetes Service - Internal Working (Deep Dive):
         => Stable IP.
         => Stable DNS Name
         => Load Balancing.
-    => Pod Discovery.
+        => Pod Discovery.
 
     Internal Flow:
     --------------
