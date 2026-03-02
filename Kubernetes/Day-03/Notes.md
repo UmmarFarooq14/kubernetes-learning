@@ -7,7 +7,7 @@ Kubernetes Service - Internal Working (Deep Dive):
     It Provides:
     ------------
         => Stable IP.
-    => Stable DNS Name
+        => Stable DNS Name
     => Load Balancing.
     => Pod Discovery.
 
