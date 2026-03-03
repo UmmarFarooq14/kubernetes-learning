@@ -37,6 +37,9 @@ First Understnad the Pods Properly:
         
     Service:
         </> YAML
+
+    Selector:
+    app:backend
     
     
     
