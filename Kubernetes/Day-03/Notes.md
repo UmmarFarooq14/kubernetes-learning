@@ -30,7 +30,7 @@ First Understnad the Pods Properly:
     Using Labels
     Ex:-  Pod
     ---
-    </>  YAML
+        </>  YAML
     
     
     
