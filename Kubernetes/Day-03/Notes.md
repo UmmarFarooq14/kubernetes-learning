@@ -29,6 +29,7 @@ First Understnad the Pods Properly:
     ----------------------------------------
     Using Labels
     Ex:-
+    ---
     
     
     
