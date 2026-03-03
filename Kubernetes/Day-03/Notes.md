@@ -31,6 +31,9 @@ First Understnad the Pods Properly:
     Ex:-  Pod
     ---
         </>  YAML
+
+    Labels:
+    app: backend
     
     
     
