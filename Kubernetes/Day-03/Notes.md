@@ -33,7 +33,7 @@ First Understnad the Pods Properly:
         </>  YAML
 
     Labels:
-    app: backend
+        app: backend
     
     
     
