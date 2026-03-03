@@ -26,6 +26,7 @@ First Understnad the Pods Properly:
         . No Downtime.
 
     How Service Knows which pods to connect:
+    ----------------------------------------
     
     
     
