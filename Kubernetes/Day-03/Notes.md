@@ -28,8 +28,9 @@ First Understnad the Pods Properly:
     How Service Knows which pods to connect:
     ----------------------------------------
     Using Labels
-    Ex:-
+    Ex:-  Pod
     ---
+    </>  YAML
     
     
     
