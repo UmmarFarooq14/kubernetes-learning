@@ -41,7 +41,7 @@ First Understnad the Pods Properly:
     Selector:
         app:backend
     
-   => If label matches --> Service connect to that Pod. 
+       => If label matches --> Service connect to that Pod. 
     
 
     
