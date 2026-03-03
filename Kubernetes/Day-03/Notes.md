@@ -19,6 +19,7 @@ First Understnad the Pods Properly:
     => So, If Someone was calling 10.22.0.6 it breaks.
 
     What if Pod Dies:
+    -----------------
     
 
     
