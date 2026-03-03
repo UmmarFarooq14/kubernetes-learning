@@ -20,6 +20,8 @@ First Understnad the Pods Properly:
 
     What if Pod Dies:
     -----------------
+    If one Pod Crashes:
+    
     
 
     
