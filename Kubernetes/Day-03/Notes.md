@@ -43,7 +43,7 @@ First Understnad the Pods Properly:
     
        => If label matches --> Service connect to that Pod. 
 
-    => If label doesn't match --> Service Ignores it.
+      => If label doesn't match --> Service Ignores it.
     
 
     
