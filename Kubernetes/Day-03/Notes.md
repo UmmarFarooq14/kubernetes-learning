@@ -39,7 +39,7 @@ First Understnad the Pods Properly:
         </> YAML
 
     Selector:
-    app:backend
+        app:backend
     
     
     
