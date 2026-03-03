@@ -42,8 +42,7 @@ First Understnad the Pods Properly:
         app:backend
     
        => If label matches --> Service connect to that Pod. 
-
-      => If label doesn't match --> Service Ignores it.
+       => If label doesn't match --> Service Ignores it.
     
 
     
