@@ -24,6 +24,9 @@ First Understnad the Pods Properly:
         . Kubernetes removes it from service.
         . Traffic automatically goes to remaining Pods.
         . No Downtime.
+
+    How Service Knows which pods to connect:
+    
     
     
 
