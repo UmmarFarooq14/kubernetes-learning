@@ -36,7 +36,7 @@ First Understnad the Pods Properly:
         app: backend
         
     Service:
-    </> YAML
+        </> YAML
     
     
     
