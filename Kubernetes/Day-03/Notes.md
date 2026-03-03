@@ -34,6 +34,9 @@ First Understnad the Pods Properly:
 
     Labels:
         app: backend
+        
+    Service:
+    </> YAML
     
     
     
