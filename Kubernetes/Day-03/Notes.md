@@ -45,6 +45,7 @@ First Understnad the Pods Properly:
        => If label doesn't match --> Service Ignores it.
     
      What Happens when user senda requests:
+     --------------------------------------
     
      
     
