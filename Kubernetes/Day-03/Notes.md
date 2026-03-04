@@ -48,7 +48,7 @@ First Understnad the Pods Properly:
      --------------------------------------
      Flow:
      -----
-     1> User sends request to service IP.
+         1> User sends request to service IP.
      2> Service receives request.
      3> Service checks matching pods.
      4> Forwards request to one pod.
