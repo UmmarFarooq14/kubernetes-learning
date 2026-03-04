@@ -53,8 +53,7 @@ First Understnad the Pods Properly:
      3> Service checks matching pods.
      4> Forwards request to one pod.
      5> Next request goes to another pod.
-     
-     
+     These All are Load-Balancing.
     
 
 
