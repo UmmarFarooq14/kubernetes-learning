@@ -48,6 +48,7 @@ First Understnad the Pods Properly:
      --------------------------------------
      Flow:
      -----
+     1> User sends request to service IP.
      
     
 
