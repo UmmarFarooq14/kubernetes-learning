@@ -50,6 +50,8 @@ First Understnad the Pods Properly:
      -----
      1> User sends request to service IP.
      2> Service receives request.
+     3> Service checks matching pods.
+     
      
     
 
