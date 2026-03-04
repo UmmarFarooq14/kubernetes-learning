@@ -47,6 +47,7 @@ First Understnad the Pods Properly:
      What Happens when user senda requests:
      --------------------------------------
      Flow:
+     ----
      
     
 
