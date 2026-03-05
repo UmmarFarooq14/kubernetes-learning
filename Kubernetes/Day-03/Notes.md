@@ -56,11 +56,6 @@ First Understnad the Pods Properly:
      These All are Load-Balancing.
     
 
-
-
-
-
-
 Kubernetes Service - Internal Working (Deep Dive):
 --------------------------------------------------
     What is Service:
