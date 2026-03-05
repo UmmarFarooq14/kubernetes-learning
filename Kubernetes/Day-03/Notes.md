@@ -102,6 +102,7 @@ Kubernetes Service - Internal Working (Deep Dive):
 
 Types of Service:
 -----------------
+1> 
     
     
     
