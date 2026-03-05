@@ -99,7 +99,7 @@ Types of Service:
 -----------------
 1> ClusterIp (Default)
 2> NodePort
-3> 
+3> LoadBalancer
     
     
     
