@@ -102,5 +102,5 @@ Types of Service:
     3> LoadBalancer
 
     1> ClusterIp (Default):
-    ----------------------
+    -----------------------
     
