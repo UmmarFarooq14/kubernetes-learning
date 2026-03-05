@@ -97,7 +97,7 @@ Kubernetes Service - Internal Working (Deep Dive):
 
 Types of Service:
 -----------------
-1> ClusterIp
+1> ClusterIp (Default)
 2> 
 3> 
     
