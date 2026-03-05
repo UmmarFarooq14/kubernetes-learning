@@ -101,5 +101,6 @@ Types of Service:
     2> NodePort
     3> LoadBalancer
 
-    1> ClusterIp (Default)
+    1> ClusterIp (Default):
+    ----------------------
     
