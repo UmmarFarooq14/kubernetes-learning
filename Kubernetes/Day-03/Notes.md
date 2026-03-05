@@ -101,6 +101,7 @@ Kubernetes Service - Internal Working (Deep Dive):
         Traffic routed to one of the pods (round - robin).
 
 Types of Service:
+-----------------
     
     
     
