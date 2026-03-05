@@ -102,7 +102,7 @@ Kubernetes Service - Internal Working (Deep Dive):
 
 Types of Service:
 -----------------
-1> 
+1> ClusterIp
 2> 
 3> 
     
