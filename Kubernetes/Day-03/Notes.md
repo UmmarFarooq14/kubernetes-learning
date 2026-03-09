@@ -107,6 +107,7 @@ Types of Service:
     4> External Name
     
     And one special case:
+    5> Headless service
 
     1> ClusterIp (Default):
     -----------------------
