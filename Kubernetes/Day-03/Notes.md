@@ -105,9 +105,8 @@ Types of Service:
     2> NodePort
     3> LoadBalancer
     4> External Name
-    
-     And one special case:
-     5> Headless service
+       And one special case:
+    5> Headless service
 
     1> ClusterIp (Default):
     -----------------------
