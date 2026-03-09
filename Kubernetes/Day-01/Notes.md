@@ -109,4 +109,3 @@ Kubernetes Architecture:
             Endpoint Controller             Updates Service endpoints
             Namespace Controller            Manages namespace lifestyle.
          
-        
