@@ -58,7 +58,6 @@ Kubernetes Architecture:
       -----
           Kubectl -> API Server -> etcd -> API Server -> Kubectl.
           Without API Server, Cluster doesn't function.
-
       
  2) etcd [ Cluster Database ] :
      --------------------------
