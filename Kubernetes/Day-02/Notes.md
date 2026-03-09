@@ -45,7 +45,6 @@ what it does:
         => Manages networking rules.
         => Implements services.
         => Handles Load balancing.
-
 Ex:-
 ---
      Service --> Forwatds traffic to correct Pod.
