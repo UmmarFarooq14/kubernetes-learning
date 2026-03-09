@@ -40,8 +40,7 @@ What happens if kubelet stops ?
     -------------------
     =>  Networking proxy running on each node.
     => Maintains Network rules.
-    
-   
+       
 what it does:
 -------------
         => Manages networking rules.
