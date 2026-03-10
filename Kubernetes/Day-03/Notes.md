@@ -143,6 +143,9 @@ Types of Service:
          ↓
      Backend Pods
 
+     Example cluster IP:
+     ------------------
+
     Common Usage:
     -------------
     . Backend APIs
