@@ -130,6 +130,9 @@ Types of Service:
        - port: 80
          targetPort: 8080
 
+    Explanation:
+    ------------
+
     Common Usage:
     -------------
     . Backend APIs
