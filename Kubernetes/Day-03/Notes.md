@@ -111,7 +111,7 @@ Types of Service:
 1> ClusterIp (Default):
 -----------------------
     . It is the default service type.
-. It exposes the application only inside the kubernetes cluster.
+    . It exposes the application only inside the kubernetes cluster.
 . This IP works only inside the cluster.
 
     
