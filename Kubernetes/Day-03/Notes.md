@@ -147,8 +147,8 @@ Example cluster IP:
  -------------------
        10.96.0.15
 
-    Common Usage:
-    -------------
+Common Usage:
+ -------------
     . Backend APIs
     . Database Services.
     . Internal icroservices.
