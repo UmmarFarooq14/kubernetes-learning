@@ -136,7 +136,7 @@ Types of Service:
      Pod Port → 8080
 
      Flow:
-     ----
+     -----
 
     Common Usage:
     -------------
