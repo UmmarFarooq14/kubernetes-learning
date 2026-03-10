@@ -145,6 +145,7 @@ Types of Service:
 
      Example cluster IP:
      -------------------
+       10.96.0.15
 
     Common Usage:
     -------------
