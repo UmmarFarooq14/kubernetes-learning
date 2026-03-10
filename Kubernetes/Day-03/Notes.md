@@ -114,4 +114,10 @@ Types of Service:
     . It exposes the application only inside the kubernetes cluster.
     . This IP works only inside the cluster.
 
+    Common Usage:
+    -------------
+    . Backend APIs
+    . Database Services.
+    . Internal icroservices.
+
     
