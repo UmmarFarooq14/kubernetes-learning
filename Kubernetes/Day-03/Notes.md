@@ -132,7 +132,8 @@ Types of Service:
 
     Explanation:
     ------------
-    
+     Service Port → 80
+     Pod Port → 8080
 
     Common Usage:
     -------------
