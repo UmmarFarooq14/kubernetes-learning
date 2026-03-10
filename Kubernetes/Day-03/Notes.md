@@ -137,6 +137,11 @@ Types of Service:
 
      Flow:
      -----
+     Frontend Pod
+         ↓
+    Service (ClusterIP)
+         ↓
+    Backend Pods
 
     Common Usage:
     -------------
