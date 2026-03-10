@@ -124,8 +124,8 @@ Types of Service:
     spec:
       type: ClusterIP
     selector:
-    app: backend
-  ports:
+      app: backend
+    ports:
   - port: 80
     targetPort: 8080
 
