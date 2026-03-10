@@ -114,6 +114,9 @@ Types of Service:
     . It exposes the application only inside the kubernetes cluster.
     . This IP works only inside the cluster.
 
+    Example YAML:
+    -------------
+
     Common Usage:
     -------------
     . Backend APIs
