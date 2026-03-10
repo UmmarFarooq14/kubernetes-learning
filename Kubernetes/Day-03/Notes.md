@@ -88,6 +88,7 @@ Kubernetes Service - Internal Working (Deep Dive):
 
     Step-4:
     -------
+        Kube-proxy updates.
         . iptables rules (or) IPVS
         .  Routing table.
         
