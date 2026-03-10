@@ -135,6 +135,9 @@ Types of Service:
      Service Port → 80
      Pod Port → 8080
 
+     Flow:
+     ----
+
     Common Usage:
     -------------
     . Backend APIs
