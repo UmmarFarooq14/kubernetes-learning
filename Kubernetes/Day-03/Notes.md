@@ -108,6 +108,6 @@ Types of Service:
        And one special case:
     5> Headless service
 
-    1> ClusterIp (Default):
-    -----------------------
+1> ClusterIp (Default):
+-----------------------
     
