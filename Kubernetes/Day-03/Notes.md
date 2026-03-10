@@ -123,9 +123,9 @@ Types of Service:
       name: backend-service
     spec:
       type: ClusterIP
-    selector:
-      app: backend
-    ports:
+      selector:
+        app: backend
+       ports:
       - port: 80
      targetPort: 8080
 
