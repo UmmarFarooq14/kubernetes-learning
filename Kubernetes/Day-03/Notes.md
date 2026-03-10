@@ -139,9 +139,9 @@ Types of Service:
      -----
      Frontend Pod
          ↓
-    Service (ClusterIP)
+     Service (ClusterIP)
          ↓
-    Backend Pods
+     Backend Pods
 
     Common Usage:
     -------------
