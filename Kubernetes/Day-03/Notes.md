@@ -118,12 +118,12 @@ Types of Service:
     -------------
 
     apiVersion: v1
-kind: Service
-metadata:
-  name: backend-service
-spec:
-  type: ClusterIP
-  selector:
+    kind: Service
+    metadata:
+      name: backend-service
+    spec:
+      type: ClusterIP
+    selector:
     app: backend
   ports:
   - port: 80
