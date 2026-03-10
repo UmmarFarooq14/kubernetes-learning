@@ -117,6 +117,18 @@ Types of Service:
     Example YAML:
     -------------
 
+    apiVersion: v1
+kind: Service
+metadata:
+  name: backend-service
+spec:
+  type: ClusterIP
+  selector:
+    app: backend
+  ports:
+  - port: 80
+    targetPort: 8080
+
     Common Usage:
     -------------
     . Backend APIs
