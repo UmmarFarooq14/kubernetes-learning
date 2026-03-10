@@ -126,8 +126,8 @@ Types of Service:
     selector:
       app: backend
     ports:
-  - port: 80
-    targetPort: 8080
+      - port: 80
+     targetPort: 8080
 
     Common Usage:
     -------------
