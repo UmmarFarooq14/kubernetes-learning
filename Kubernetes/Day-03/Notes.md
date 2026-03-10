@@ -130,8 +130,8 @@ Types of Service:
        - port: 80
          targetPort: 8080
 
-    Explanation:
-    ------------
+Explanation:
+------------
      Service Port → 80
      Pod Port → 8080
 
