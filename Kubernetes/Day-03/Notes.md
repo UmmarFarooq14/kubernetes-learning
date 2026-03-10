@@ -110,4 +110,6 @@ Types of Service:
 
 1> ClusterIp (Default):
 -----------------------
+. It is the default service type.
+
     
