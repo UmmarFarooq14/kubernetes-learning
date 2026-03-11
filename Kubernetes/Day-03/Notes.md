@@ -163,4 +163,16 @@ Port range:
 
 Example YAML:
 -------------
+apiVersion: v1
+kind: Service
+metadata:
+  name: web-service
+spec:
+  type: NodePort
+  selector:
+    app: web
+  ports:
+  - port: 80
+    targetPort: 8080
+    nodePort: 30007
     
