@@ -169,7 +169,7 @@ Example YAML:
       name: web-service
     spec:
       type: NodePort
-  selector:
+      selector:
     app: web
   ports:
   - port: 80
