@@ -171,8 +171,8 @@ Example YAML:
       type: NodePort
       selector:
         app: web
-  ports:
-  - port: 80
+     ports:
+     - port: 80
     targetPort: 8080
     nodePort: 30007
     
