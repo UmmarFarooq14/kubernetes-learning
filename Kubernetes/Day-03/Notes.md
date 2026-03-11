@@ -156,4 +156,7 @@ Common Usage:
 2> Nodeport:
   ----------
       NodePort exposes the service on a port of every node in the cluster.
+
+Port range:
+
     
