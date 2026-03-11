@@ -163,9 +163,9 @@ Port range:
 
 Example YAML:
 -------------
-apiVersion: v1
-kind: Service
-metadata:
+    apiVersion: v1
+    kind: Service
+    metadata:
   name: web-service
 spec:
   type: NodePort
