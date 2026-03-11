@@ -170,7 +170,7 @@ Example YAML:
     spec:
       type: NodePort
       selector:
-    app: web
+        app: web
   ports:
   - port: 80
     targetPort: 8080
