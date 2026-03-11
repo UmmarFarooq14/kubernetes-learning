@@ -168,7 +168,7 @@ Example YAML:
     metadata:
       name: web-service
     spec:
-  type: NodePort
+      type: NodePort
   selector:
     app: web
   ports:
