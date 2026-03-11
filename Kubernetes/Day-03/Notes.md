@@ -173,6 +173,6 @@ Example YAML:
         app: web
      ports:
      - port: 80
-    targetPort: 8080
+       targetPort: 8080
     nodePort: 30007
     
