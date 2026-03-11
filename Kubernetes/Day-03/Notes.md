@@ -174,5 +174,5 @@ Example YAML:
      ports:
      - port: 80
        targetPort: 8080
-    nodePort: 30007
+       nodePort: 30007
     
