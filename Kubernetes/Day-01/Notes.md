@@ -10,7 +10,7 @@ Kubernetes:
 
 RBAC GA in Kubernetes:
 ----------------------
-RBAC was:
+RBAC was
 ---------
     . Introduced as Alpha {Experimental, may change}
     . Moved to Beta {Mostly Stable, minor changes possible}
