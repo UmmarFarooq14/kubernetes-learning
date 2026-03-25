@@ -12,7 +12,7 @@ Worker Node:
        communicates with Kube-apiservers.
        
   What Kubelet does:
-  ------------------
+  -------------------
       => Registers node to cluster.
       => watches for assigned pods.
       => Pulls container images.
