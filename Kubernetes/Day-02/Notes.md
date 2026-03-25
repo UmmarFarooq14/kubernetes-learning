@@ -39,7 +39,7 @@ What happens if kubelet stops ?
     What is Kube-proxy:
     -------------------
     =>  Networking proxy running on each node.
-    => Maintains Network rules.       
+    =>  Maintains Network rules.       
 what it does:
 -------------
         => Manages networking rules.
