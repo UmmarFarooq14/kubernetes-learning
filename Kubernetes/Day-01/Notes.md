@@ -77,7 +77,7 @@ Kubernetes Architecture:
     ----------
         => Single Source of truth.
         => Musk take regular backups.
-        => If etcd is lost -> Cluster state will lost. 
+        => If etcd is lost -> Cluster state will lost.
 
 3) Kube-Scheduler:
    ---------------
