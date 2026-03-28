@@ -21,7 +21,7 @@ RBAC was
     . Deployment
     . Scaling
     . Networking
-    . Self - Healing
+    . Self-Healing
     . Load Balancing
 
 Kubernetes Architecture:
