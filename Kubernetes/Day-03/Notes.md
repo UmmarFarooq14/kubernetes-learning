@@ -244,6 +244,9 @@ Example YAML:
     spec:
       type: ExternalName
       externalName: database.example.com
-
+      
+Now inside the cluster you can access:
+--------------------------------------
+    external-db.default.svc.cluster.local
 
     
