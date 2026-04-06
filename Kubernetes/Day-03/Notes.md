@@ -178,8 +178,8 @@ Example YAML:
 
 Use Cases:
 ----------
- . Testing
- . Local Development
- . Small Clusters
+     . Testing
+     . Local Development
+     . Small Clusters
  
     
