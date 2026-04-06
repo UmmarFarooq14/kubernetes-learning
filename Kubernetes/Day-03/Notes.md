@@ -233,6 +233,6 @@ Uses Cases:
 
 ExternalName:
 -------------
-. ExternalName  connects a Kubernetes service to external DNS name.
+    . ExternalName  connects a Kubernetes service to external DNS name.
 
     
