@@ -235,4 +235,8 @@ ExternalName:
 -------------
     . ExternalName  connects a Kubernetes service to external DNS name.
 
+Example YAML:
+-------------
+
+
     
