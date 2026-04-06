@@ -227,7 +227,7 @@ IP:
 Uses Cases:
 ------------
 
-. Public Applications
-. Production Environmnet
-. Exposing APIs to Internet
+    . Public Applications
+    . Production Environmnets
+    . Exposing APIs to Internet
     
