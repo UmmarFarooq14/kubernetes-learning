@@ -175,4 +175,11 @@ Example YAML:
      - port: 80
        targetPort: 8080
        nodePort: 30007
+
+Use Cases:
+----------
+ . Testing
+ . Local Development
+ . Small Clusters
+ 
     
