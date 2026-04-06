@@ -187,5 +187,8 @@ Load Balancer:
 --------------
     . Load Balancer is used in cloud environments.
     . whenever the service is created, Kubernetes automatically creates the Load Balancer through a cloud provider. 
+
+Examples:
+---------
  
     
