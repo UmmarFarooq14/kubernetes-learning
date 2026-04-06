@@ -253,4 +253,10 @@ And it resolves to:
 --------------------
     database.example.com
 
+Common Cases:
+-------------
+. External Database
+. External APIs
+. Third-Party Services
+
     
