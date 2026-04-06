@@ -190,8 +190,8 @@ Load Balancer:
 
 Examples:
 ---------
- . AWS ELB
- . Azure Load Balancer
- . GCP Load Balancer
- 
+     . AWS ELB
+     . Azure Load Balancer
+     . GCP Load Balancer
+     
     
