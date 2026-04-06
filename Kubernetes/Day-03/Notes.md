@@ -182,5 +182,8 @@ Use Cases:
      . Local Development
      . Small Clusters
      * In Production,  Nodeport is usually used behind a Load Balancer.
+
+Load Balancer:
+--------------
  
     
