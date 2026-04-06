@@ -209,6 +209,16 @@ Example YAML:
       - port: 80
         targetPort: 8080
 
+Flow:
+-----
+
+    Internet
+       ↓
+    Cloud Load Balancer
+       ↓
+    NodePort
+       ↓
+    Pods
 
      
     
