@@ -185,5 +185,6 @@ Use Cases:
 
 Load Balancer:
 --------------
+. Load Balancer is used in cloud environments.
  
     
