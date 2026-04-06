@@ -223,4 +223,11 @@ Flow:
 IP:
 ---
     34.120.x.x
+
+Uses Cases:
+------------
+
+. Public Applications
+. Production Environmnet
+. Exposing APIs to Internet
     
