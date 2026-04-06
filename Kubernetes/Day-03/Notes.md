@@ -255,8 +255,8 @@ And it resolves to:
 
 Common Cases:
 -------------
-. External Database
-. External APIs
-. Third-Party Services
+    . External Database
+    . External APIs
+    . Third-Party Services
 
     
