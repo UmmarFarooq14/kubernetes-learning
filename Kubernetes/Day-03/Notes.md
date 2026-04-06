@@ -194,8 +194,8 @@ Examples:
      . Azure Load Balancer
      . GCP Load Balancer
 
-YAML:
------
+Example YAML:
+-------------
 
     apiVersion: v1
     kind: Service
@@ -208,5 +208,7 @@ YAML:
       ports:
       - port: 80
         targetPort: 8080
+
+
      
     
