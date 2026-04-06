@@ -237,6 +237,13 @@ ExternalName:
 
 Example YAML:
 -------------
+    apiVersion: v1
+    kind: Service
+    metadata:
+      name: external-db
+    spec:
+      type: ExternalName
+      externalName: database.example.com
 
 
     
