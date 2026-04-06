@@ -196,5 +196,17 @@ Examples:
 
 YAML:
 -----
+
+    apiVersion: v1
+    kind: Service
+    metadata:
+      name: web-service
+    spec:
+      type: LoadBalancer
+      selector:
+        app: web
+      ports:
+      - port: 80
+        targetPort: 8080
      
     
