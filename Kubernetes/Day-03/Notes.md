@@ -230,4 +230,9 @@ Uses Cases:
     . Public Applications
     . Production Environmnets
     . Exposing APIs to Internet
+
+ExternalName:
+-------------
+. ExternalName  connects a Kubernetes service to external DNS name.
+
     
