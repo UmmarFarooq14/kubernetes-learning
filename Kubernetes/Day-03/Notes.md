@@ -157,7 +157,7 @@ Common Usage:-
   ----------
       NodePort exposes the service on a port of every node in the cluster.
 
-Port range:
+Port range:-
 -----------
     30000 - 32767
 
