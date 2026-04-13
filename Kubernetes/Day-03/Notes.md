@@ -176,7 +176,7 @@ Example YAML:-
        targetPort: 8080
        nodePort: 30007
 
-Use Cases:
+Use Cases:-
 ----------
      . Testing
      . Local Development
