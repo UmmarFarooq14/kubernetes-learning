@@ -153,7 +153,7 @@ Common Usage:-
     . Database Services.
     . Internal microservices.
 
-2> Nodeport:
+2> Nodeport:-
   ----------
       NodePort exposes the service on a port of every node in the cluster.
 
