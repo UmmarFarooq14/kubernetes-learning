@@ -46,7 +46,7 @@ First Understnad the Pods Properly:-
     
      What Happens when user senda requests:-
      --------------------------------------
-     Flow:
+     Flow:-
      -----
          1> User sends request to service IP.
          2> Service receives request.
