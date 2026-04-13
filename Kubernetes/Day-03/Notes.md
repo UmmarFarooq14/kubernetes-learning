@@ -25,7 +25,7 @@ First Understnad the Pods Properly:-
         . Traffic automatically goes to remaining Pods:
         . No Downtime.
 
-    How Service Knows which pods to connect:
+    How Service Knows which pods to connect:-
     ----------------------------------------
     Using Labels
     Ex:-  Pod
