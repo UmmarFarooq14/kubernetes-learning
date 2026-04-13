@@ -73,7 +73,7 @@ Kubernetes Service - Internal Working (Deep Dive):-
     --------------
         When we create a service:
 
-    Step-1:
+    Step-1:-
     -------
         API Server stores Services object in etcd.
 
