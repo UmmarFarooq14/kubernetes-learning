@@ -82,7 +82,7 @@ Kubernetes Service - Internal Working (Deep Dive):-
         . Endpoint Controller Creates Endpoint Object.
         . It tracks pods with matching labels.
 
-    Step-3:
+    Step-3:-
     -------
         kube - proxy detects service.
 
