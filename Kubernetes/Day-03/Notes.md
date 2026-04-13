@@ -1,6 +1,6 @@
 First Understnad the Pods Properly:-
 -----------------------------------
-    In Kubernetes:
+    In Kubernetes:-
     --------------
        . Application runs inside the pods.
        . Pods have IP address.
