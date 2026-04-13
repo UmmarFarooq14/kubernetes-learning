@@ -38,7 +38,7 @@ First Understnad the Pods Properly:-
     Service:
         </> YAML
 
-    Selector:
+    Selector:-
         app:backend
     
        => If label matches --> Service connect to that Pod.
