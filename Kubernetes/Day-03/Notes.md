@@ -18,7 +18,7 @@ First Understnad the Pods Properly:-
 
     => So, If Someone was calling 10.22.0.6 it breaks.
 
-    What if Pod Dies:
+    What if Pod Dies:-
     -----------------
     If one Pod Crashes:
         . Kubernetes removes it from service.
