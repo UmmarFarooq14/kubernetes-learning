@@ -20,7 +20,7 @@ First Understnad the Pods Properly:-
 
     What if Pod Dies:-
     -----------------
-    If one Pod Crashes:
+    If one Pod Crashes:-
         . Kubernetes removes it from service.
         . Traffic automatically goes to remaining Pods:
         . No Downtime.
