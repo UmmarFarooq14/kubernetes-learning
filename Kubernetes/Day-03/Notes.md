@@ -135,7 +135,7 @@ Explanation:-
      Service Port → 80
      Pod Port → 8080
 
-     Flow:
+     Flow:-
      -----
      Frontend Pod
          ↓
