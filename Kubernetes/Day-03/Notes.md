@@ -143,7 +143,7 @@ Explanation:-
          ↓
      Backend Pods
 
-Example cluster IP:
+Example cluster IP:-
  -------------------
        10.96.0.15
 
