@@ -161,7 +161,7 @@ Port range:-
 -----------
     30000 - 32767
 
-Example YAML:
+Example YAML:-
 -------------
     apiVersion: v1
     kind: Service
