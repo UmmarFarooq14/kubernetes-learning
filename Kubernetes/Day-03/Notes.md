@@ -77,7 +77,7 @@ Kubernetes Service - Internal Working (Deep Dive):-
     -------
         API Server stores Services object in etcd.
 
-    Step-2:
+    Step-2:-
     -------
         . Endpoint Controller Creates Endpoint Object.
         . It tracks pods with matching labels.
