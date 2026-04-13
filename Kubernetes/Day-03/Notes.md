@@ -86,7 +86,7 @@ Kubernetes Service - Internal Working (Deep Dive):-
     -------
         kube - proxy detects service.
 
-    Step-4:
+    Step-4:-
     -------
         Kube-proxy updates.
          . iptables rules (or) IPVS
