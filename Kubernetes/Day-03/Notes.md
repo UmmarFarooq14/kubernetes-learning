@@ -58,7 +58,7 @@ First Understnad the Pods Properly:-
 
 Kubernetes Service - Internal Working (Deep Dive):-
 --------------------------------------------------
-    What is Service:
+    What is Service:-
     ----------------
         A Stable Virtual IP that exposes a set of pods using labels.
 
