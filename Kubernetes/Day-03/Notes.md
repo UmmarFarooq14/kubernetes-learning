@@ -1,4 +1,4 @@
-First Understnad the Pods Properly:
+First Understnad the Pods Properly:-
 -----------------------------------
     In Kubernetes:
     --------------
