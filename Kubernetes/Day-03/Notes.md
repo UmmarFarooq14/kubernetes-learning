@@ -100,7 +100,7 @@ Kubernetes Service - Internal Working (Deep Dive):-
     -------
         Traffic routed to one of the pods (round - robin).
 
-Types of Service:
+Types of Service:-
 -----------------
     1> ClusterIp (Default)
     2> NodePort
