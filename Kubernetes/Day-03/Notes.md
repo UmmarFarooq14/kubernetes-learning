@@ -92,7 +92,7 @@ Kubernetes Service - Internal Working (Deep Dive):-
          . iptables rules (or) IPVS
          .  Routing table.
         
-        iptables:
+        iptables:-
         ---------
         . iptables(iptables is a linux firewall and protect-filtering system. It controls how the networking traffic enters, leaves or forwarded inside a linux machine).
         . IPVS it is a high-performance load balancer built in the linux kernel.
