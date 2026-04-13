@@ -96,7 +96,7 @@ Kubernetes Service - Internal Working (Deep Dive):-
         ---------
         . iptables(iptables is a linux firewall and protect-filtering system. It controls how the networking traffic enters, leaves or forwarded inside a linux machine).
         . IPVS it is a high-performance load balancer built in the linux kernel.
-    Step-5:
+    Step-5:-
     -------
         Traffic routed to one of the pods (round - robin).
 
