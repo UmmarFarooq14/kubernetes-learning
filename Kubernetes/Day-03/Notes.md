@@ -69,7 +69,7 @@ Kubernetes Service - Internal Working (Deep Dive):-
         => Load Balancing.
         => Pod Discovery.
 
-    Internal Flow:
+    Internal Flow:-
     --------------
         When we create a service:
 
