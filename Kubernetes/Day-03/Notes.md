@@ -109,7 +109,7 @@ Types of Service:-
        And one special case:
     5> Headless service
 
-1> ClusterIp (Default):
+1> ClusterIp (Default):-
 -----------------------
     . It is the default service type.
     . It exposes the application only inside the kubernetes cluster.
