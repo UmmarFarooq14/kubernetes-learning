@@ -239,7 +239,7 @@ Example YAML:-
 -------------
     apiVersion: v1
     kind: Service
-    metadata:
+    metadata:-
       name: external-db
     spec:-
       type: ExternalName
