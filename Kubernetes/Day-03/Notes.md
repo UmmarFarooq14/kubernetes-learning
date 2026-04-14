@@ -201,7 +201,7 @@ Example YAML:-
     kind: Service
     metadata:-
       name: web-service
-    spec:
+    spec:-
       type: LoadBalancer
       selector:
         app: web
