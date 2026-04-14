@@ -249,7 +249,7 @@ Now inside the cluster you can access:
 --------------------------------------
     external-db.default.svc.cluster.local
 
-And it resolves to:
+And it resolves to:-
 --------------------
     database.example.com
 
