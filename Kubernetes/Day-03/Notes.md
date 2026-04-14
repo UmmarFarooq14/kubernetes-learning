@@ -224,7 +224,7 @@ IP:-
 ---
     34.120.x.x
 
-Uses Cases:
+Uses Cases:-
 ------------
 
     . Public Applications
