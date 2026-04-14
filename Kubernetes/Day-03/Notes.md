@@ -126,7 +126,7 @@ Types of Service:-
       type: ClusterIP
       selector:-
         app: backend
-       ports:
+       ports:-
        - port: 80
          targetPort: 8080
 
