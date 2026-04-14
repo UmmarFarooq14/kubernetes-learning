@@ -253,7 +253,7 @@ And it resolves to:
 --------------------
     database.example.com
 
-Common Cases:
+Common Cases:-
 -------------
     . External Database
     . External APIs
