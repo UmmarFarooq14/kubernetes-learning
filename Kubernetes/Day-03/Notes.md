@@ -183,7 +183,7 @@ Use Cases:-
      . Small Clusters
      * In Production,  Nodeport is usually used behind a Load Balancer.
 
-Load Balancer:
+Load Balancer:-
 --------------
     . Load Balancer is used in cloud environments.
     . whenever the service is created, Kubernetes automatically creates the Load Balancer through a cloud provider. 
