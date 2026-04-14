@@ -194,7 +194,7 @@ Examples:
      . Azure Load Balancer
      . GCP Load Balancer
 
-Example YAML:
+Example YAML:-
 -------------
 
     apiVersion: v1
