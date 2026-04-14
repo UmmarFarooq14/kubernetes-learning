@@ -203,7 +203,7 @@ Example YAML:-
       name: web-service
     spec:-
       type: LoadBalancer
-      selector:
+      selector:-
         app: web
       ports:
       - port: 80
