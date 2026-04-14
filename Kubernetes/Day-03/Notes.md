@@ -122,7 +122,7 @@ Types of Service:-
     kind: Service
     metadata:-
       name: backend-service
-    spec:
+    spec:-
       type: ClusterIP
       selector:
         app: backend
