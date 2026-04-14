@@ -209,7 +209,7 @@ Example YAML:-
       - port: 80
         targetPort: 8080
 
-Flow:
+Flow:-
 -----
 
     Internet
