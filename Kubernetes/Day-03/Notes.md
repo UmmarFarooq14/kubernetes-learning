@@ -241,7 +241,7 @@ Example YAML:-
     kind: Service
     metadata:
       name: external-db
-    spec:
+    spec:-
       type: ExternalName
       externalName: database.example.com
       
