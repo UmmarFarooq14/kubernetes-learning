@@ -199,7 +199,7 @@ Example YAML:
 
     apiVersion: v1
     kind: Service
-    metadata:
+    metadata:-
       name: web-service
     spec:
       type: LoadBalancer
