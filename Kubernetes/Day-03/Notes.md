@@ -120,7 +120,7 @@ Types of Service:-
 
     apiVersion: v1
     kind: Service
-    metadata:
+    metadata:-
       name: backend-service
     spec:
       type: ClusterIP
