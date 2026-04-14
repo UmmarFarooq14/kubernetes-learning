@@ -205,7 +205,7 @@ Example YAML:-
       type: LoadBalancer
       selector:-
         app: web
-      ports:
+      ports:-
       - port: 80
         targetPort: 8080
 
