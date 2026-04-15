@@ -4,3 +4,4 @@ what is ReplicaSet:
 
     Definition:
     -----------
+    . A ReplicaSet ensures that a specified number of pods replicas are running at all times.
