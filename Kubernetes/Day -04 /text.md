@@ -41,5 +41,6 @@ Continuous Process:
 -------------------
     Check ---> Compare --> fix.
 
-       . Why not use ReplicaSet Directly ?
+
+ Why not use ReplicaSet Directly ?
        => Because it does not support rolling updates; Deployments is preferreed.
