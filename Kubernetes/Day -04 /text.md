@@ -27,9 +27,9 @@ ReplicaSet Uses:
 Desired State vs Actual State:
 ------------------------------
 Ex:
-       You define:
-         </> YAML
-      replicas : 3
+             You define:
+             </> YAML
+            replicas : 3
       
   => Desired state = 3 Pods.
      Now actual state:
