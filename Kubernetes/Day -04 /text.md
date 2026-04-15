@@ -12,3 +12,6 @@ With ReplicaSet:
     . Automatically recreates pods.
     . Maintains desired number of pods.
     . Ensures High Availability.
+
+Structure:
+----------
