@@ -22,3 +22,4 @@ Structure:
 
 ReplicaSet Uses:
 ----------------
+. Labels & selectors to identify pods.
