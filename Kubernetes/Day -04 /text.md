@@ -39,4 +39,4 @@ Desired State vs Actual State:
 
 Continuous Process:
 -------------------
-
+Check ---> Compare --> fix.
