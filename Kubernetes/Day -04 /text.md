@@ -15,7 +15,7 @@ With ReplicaSet:
 
 Structure:
 ----------
-ReplicaSet
-    |
-    |
-Managing Pods
+    ReplicaSet
+        |
+        |
+    Managing Pods
