@@ -23,3 +23,7 @@ Structure:
 ReplicaSet Uses:
 ----------------
     . Labels & selectors to identify pods.
+
+Desired State vs Actual State:
+------------------------------
+
