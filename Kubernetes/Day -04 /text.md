@@ -31,8 +31,8 @@ Desired State vs Actual State:
     </> YAML
      replicas : 3
       
-  => Desired state = 3 Pods.
-     Now actual state:
-     only 2 pods running
-  => ReplicaSet detects mismatch and creates 1 new pod.
-  This is called "Reconciliayion loop"
+      => Desired state = 3 Pods.
+         Now actual state:
+         only 2 pods running
+      => ReplicaSet detects mismatch and creates 1 new pod.
+      This is called "Reconciliayion loop"
