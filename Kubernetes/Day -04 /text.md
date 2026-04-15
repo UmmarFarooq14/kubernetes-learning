@@ -9,6 +9,6 @@ Definition:
 With ReplicaSet:
 ----------------
 
-. Automatically recreates pods.
-. Maintains desired number of pods.
-. Ensures High Availability.
+    . Automatically recreates pods.
+    . Maintains desired number of pods.
+    . Ensures High Availability.
