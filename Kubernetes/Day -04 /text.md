@@ -19,3 +19,6 @@ Structure:
         |
         |
     Managing Pods
+
+ReplicaSet Uses:
+----------------
