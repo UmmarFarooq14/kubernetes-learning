@@ -14,7 +14,7 @@ With ReplicaSet:-
     . Maintains desired number of pods.
     . Ensures High Availability.
 
-Structure:
+Structure:-
 ----------
     ReplicaSet
         |
