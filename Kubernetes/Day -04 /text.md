@@ -25,7 +25,7 @@ ReplicaSet Uses:-
 ----------------
     . Labels & selectors to identify pods.
 
-Desired State vs Actual State:
+Desired State vs Actual State:-
 ------------------------------
     Ex:
      You define:
