@@ -1,4 +1,4 @@
-what is ReplicaSet:
+what is ReplicaSet:-
 -------------------
     => It explains how kubernetes maintains pods automatically.
     => ReplicaSets are Ephemeral{Temporary}.
