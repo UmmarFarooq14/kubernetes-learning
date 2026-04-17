@@ -21,7 +21,7 @@ Structure:-
         |
     Managing Pods
 
-ReplicaSet Uses:
+ReplicaSet Uses:-
 ----------------
     . Labels & selectors to identify pods.
 
