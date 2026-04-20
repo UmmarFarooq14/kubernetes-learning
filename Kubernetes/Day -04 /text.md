@@ -15,7 +15,7 @@ With ReplicaSet:-
     . Ensures High Availability.
 
 Structure:-
-----------
+-----------
     ReplicaSet
         |
         |
