@@ -36,7 +36,7 @@ Desired State vs Actual State:-
          Now actual state:
          only 2 pods running
       => ReplicaSet detects mismatch and creates 1 new pod.
-      This is called "Reconciliayion loop".
+      This is called "Reconciliation loop".
 
 Continuous Process:-
 -------------------
