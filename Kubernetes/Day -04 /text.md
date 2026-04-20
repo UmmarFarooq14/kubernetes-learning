@@ -22,7 +22,7 @@ Structure:-
     Managing Pods
 
 ReplicaSet Uses:-
-----------------
+-----------------
     . Labels & selectors to identify pods.
 
 Desired State vs Actual State:-
